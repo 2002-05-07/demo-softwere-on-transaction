@@ -1,0 +1,13 @@
+h1{
+    font-size: large;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    text-align: center;
+}
+body{
+    color: black ;
+    background-color: yellow;
+    font-size: xx-large;
+    text-align: center;
+}
